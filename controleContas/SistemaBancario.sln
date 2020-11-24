@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controleContas", "controleContas\controleContas.csproj", "{42073358-EC24-4E4F-8C17-30FB5EA20611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controleContasGui", "controleContasGui\controleContasGui.csproj", "{B544D3CC-7612-4242-AC6A-6816FE72D486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42073358-EC24-4E4F-8C17-30FB5EA20611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42073358-EC24-4E4F-8C17-30FB5EA20611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42073358-EC24-4E4F-8C17-30FB5EA20611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42073358-EC24-4E4F-8C17-30FB5EA20611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B544D3CC-7612-4242-AC6A-6816FE72D486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B544D3CC-7612-4242-AC6A-6816FE72D486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B544D3CC-7612-4242-AC6A-6816FE72D486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B544D3CC-7612-4242-AC6A-6816FE72D486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34AE9FD-9938-48E9-8740-C66192D6104C}
+	EndGlobalSection
+EndGlobal
